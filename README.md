@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1000542338.png" width="100%" alt="NetWatch Pro Banner" />
+  <img src="demo-image.jpg" width="100%" alt="NetWatch Pro Banner" />
   
   <h1>📡 NetWatch Pro</h1>
   <p><strong>Real-Time Camera Monitoring System</strong><br>Educational CCTV Architecture Simulation</p>
